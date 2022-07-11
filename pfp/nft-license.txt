@@ -1,0 +1,51 @@
+NFT License Agreement
+
+This NFT License Agreement (this “AGREEMENT”) is a legally binding AGREEMENT between you and Josh Painter ("JOSHPAINTER"), a US citizen and resident of the state of Oklahoma, that describes the rights in ARTWORK you may obtain when you purchase or receive any JOSHPAINTER NFT. For clarity, this AGREEMENT does not otherwise govern the transaction that is effectuated on any blockchain when you buy or offer to buy any JOSHPAINTER NFT, including through any related decentralized technologies, websites, services, tools, applications, smart contracts, and APIs, which are provided by third party vendors and governed by and subject to the terms of use provided by those third party vendors, unless such third party terms of use conflict or are inconsistent with the terms of this AGREEMENT, in which case the terms of this AGREEMENT shall prevail. Subject to the foregoing, this AGREEMENT supplements the terms of service and privacy policy that otherwise govern your use of the JOSHPAINTER websites, services and application. By accepting ownership of the JOSHPAINTER NFT, you agree to abide by the terms of this AGREEMENT.
+
+1. Definitions
+  (a) "JOSHPAINTER NFT" means a unique blockchain-tracked, non-fungible token that serves as a digital collectible and was originally created by JOSHPAINTER.
+  (b) “ARTWORK” means the original artwork that was minted as a JOSHPAINTER NFT.
+  (c) “OWN” or “OWNED” means a JOSHPAINTER NFT that you originally purchased/received/traded from JOSHPAINTER or any other legitimate OWNER of that JOSHPAINTER NFT.
+  (d) "OWNER" means the current owner of the JOSHPAINTER NFT according to the underlying blockchain on which that NFT has been minted.
+  (d) “Third Party IP” means any third-party copyrights, trademarks, patent rights (including, without limitation, patent applications and disclosures), trade secrets, know-how or any other intellectual property rights recognized in any country or jurisdiction in the world.
+
+2. License
+Subject to your compliance with the terms of this AGREEMENT, JOSHPAINTER hereby grants you a worldwide, non-exclusive, personal, limited license to display the ARTWORK associated with any JOSHPAINTER NFT(s) that you OWN, privately or publicly, solely for personal, non-commercial purposes, including on social media platforms, digital galleries, or otherwise on the Internet or in association with your offer to sell or trade your JOSHPAINTER NFT(s). This license does not grant you any rights in or to the ARTWORK separate from the associated NFT(s), including any of the copyrights described in Section 4 of this AGREEMENT. 
+
+3. Restrictions
+You agree that you may not, and will not permit any third party to, do or attempt to do any of the following without JOSHPAINTER's express prior written consent in each case: 
+  (i) modify the ARTWORK associated with your JOSHPAINTER NFT(s) in any way; 
+  (ii) use the ARTWORK to advertise, market, or sell any product or service; 
+  (iii) use the ARTWORK in connection with malicious, harmful, offensive or obscene images, videos, or other materials or forms of media, including any that depict hatred, intolerance, violence, cruelty, or anything else that could reasonably be found to constitute hate speech or otherwise violate applicable laws or regulations or infringe upon the rights of others; 
+  (iv) attempt to mint, tokenize, or create an additional cryptographic token representing the ARTWORK on any platform; 
+  (v) use or incorporate the ARTWORK in movies, videos, video games, or any other forms of media for a commercial purpose; 
+  (vi) sell, distribute for commercial gain, or otherwise commercialize merchandise that includes, contains, or consists of the ARTWORK; 
+  (vii) otherwise commercially use or exploit any ARTWORK for your or any third party’s benefit, including by selling copies of any ARTWORK or selling derivative works embodying any ARTWORK; 
+  (viii) trademark, copyright, or seek to trademark, copyright, or otherwise acquire additional intellectual property rights in or to the ARTWORK, including any JOSHPAINTER name, trademark, logo, trade dress, or other source indicators contained or depicted therein; 
+  (ix) falsify, misrepresent, or conceal the authorship of the ARTWORK or the JOSHPAINTER NFT. 
+
+4. Ownership
+You acknowledge and agree that JOSHPAINTER (or, as applicable, its licensors) owns all legal right, title and interest in and to the ARTWORK, and all intellectual property rights therein. The rights that you have in and to the ARTWORK are limited to those expressly described in Section 2 of this AGREEMENT. JOSHPAINTER (on behalf of itself and, as applicable, its licensors) reserves all other rights in and to the ARTWORK, including all copyrights in and to the ARTWORK (e.g., the right to prepare derivate works, to reproduce and make copies, to distribute, sell, or transfer, to display, to perform, and to publicly display and publicly perform).
+
+5. License Term
+The license granted in Section 2 of this AGREEMENT applies only to the extent that you continue to OWN the applicable JOSHPAINTER NFT. If at any time you sell, trade, donate, give away, or transfer your JOSHPAINTER NFT to a new OWNER, the license granted in Section 2 shall be transferred to that new OWNER, and you will have no further rights in or to the JOSHPAINTER NFT or ARTWORK associated with that JOSHPAINTER NFT. If at any time you burn or otherwise dispose of your JOSHPAINTER NFT for any reason, the license granted in Section 2 of this AGREEMENT will immediately expire with respect to that JOSHPAINTER NFT without the requirement of notice or any further action, and you will have no further rights in or to the JOSHPAINTER NFT or ARTWORK associated with that JOSHPAINTER NFT.
+
+6. Indemnification
+You shall indemnify, defend and hold harmless JOSHPAINTER, its affiliates and licensors, and its and their respective officers, agents, directors, representatives, contractors, and employees, from and against any and all claims, suits, demands, actions, losses, liabilities, damages, judgements, penalties, fines, expenses and other costs (including reasonable attorneys’ fees) arising from your breach or alleged breach of this AGREEMENT. JOSHPAINTER will also have the right to provide its own defense additionally or alternatively at its own expense.
+
+7. Limitation of Liability
+In no event will JOSHPAINTER be liable to you for any special, incidental, exemplary, indirect, punitive, or consequential damages (including loss of profits) with respect to the subject matter of this AGREEMENT, whether such liability arises from any claim based upon contract, warranty, tort (including negligence), strict liability or otherwise, and whether or not you have been advised of the possibility of such loss or damage. JOSHPAINTER’s aggregate liability under this AGREEMENT shall not exceed the net revenues actually received by JOSHPAINTER in connection with any transaction in which you purchased or sold your JOSHPAINTER NFT. The foregoing limitation of liability shall only apply to the extent permitted by applicable law. In no event will JOSHPAINTER be liable for any inability for you to access the ARTWORK for any reason, including as a result of any downtime, failure, obsolescence, removal, termination or other disruption relating to 
+  (a) the servers upon which the ARTWORK is stored; 
+  (b) any other NFT platform or marketplace. 
+
+8. Assignment
+JOSHPAINTER will have the unrestricted right to assign this AGREEMENT and to assign, subcontract, license and sublicense any or all of its rights and obligations hereunder. This AGREEMENT (including, without limitation, the license granted hereunder) is personal to you and shall not be assigned or transferred by you, except to a new OWNER of the JOSHPAINTER NFT as set forth in Section 5 above. Any other attempt by you to assign, sub-license, or transfer your rights under this AGREEMENT shall be null and void.
+
+9. Dispute Resolution 
+This AGREEMENT will be governed by, and construed and interpreted in accordance with, the laws of the State of Oklahoma, Unites States, without regard to its conflicts-of-law principles. Any dispute arising out of or relating to this AGREEMENT may be brought and adjudicated only in the courts, federal or state, located in the County of Tulsa, State of Oklahoma, and JOSHPAINTER and you submit to the exclusive jurisdiction of such courts and waive any objections based upon improper venue or inconvenient forum. Neither JOSHPAINTER nor you will seek to litigate any claims against the other on a class action or representative party basis and shall pursue any claims solely on an individual basis.
+
+10. Remedies
+Your rights and remedies in the event of any breach of this AGREEMENT are strictly limited to the right, if any, to recover damages in an action at law, and you acknowledge that your remedy of money damages is adequate. You will not be entitled by reason of any such breach, and you will not seek, any equitable relief, whether injunctive or otherwise.
+
+11. Miscellaneous Terms
+This AGREEMENT constitutes the complete understanding and agreement of you and JOSHPAINTER with respect to the ARTWORK and supersedes any and all prior or contemporaneous written or oral agreements between you and JOSHPAINTER with respect to the ARTWORK. Prior agreements between JOSHPAINTER and you relating to any ARTWORK(s) will continue to govern those prior ARTWORK(s). The language of any clause or term of this AGREEMENT will not be construed for or against the drafter. No right or term of this AGREEMENT will be deemed waived, and no breach of this AGREEMENT excused, unless the waiver or consent is in writing and signed by you and JOSHPAINTER. Any modification or amendment to this AGREEMENT must be made in writing and signed by you and JOSHPAINTER. 
