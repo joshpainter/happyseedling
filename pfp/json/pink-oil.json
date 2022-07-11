@@ -1,0 +1,38 @@
+{
+    "format": "CHIP-0007",
+    "name": "Happy Seedling - Pink Oil",
+    "description": "2,000 Happy Seedlings on Chia, from Josh Painter.",
+    "sensitive_content": false,
+    "collection": {
+      "name": "Happy Seedlings",
+      "id": "did:chia:1ar35mu00g86j032ffn0xjgy8d5uh9q6kcvyap7n073pyxlhpmufsjd4kya:happyseedlings",
+      "attributes": [
+        {
+          "type": "description",
+          "value": "2,000 Happy Seedlings on Chia, from Josh Painter."
+        },
+        {
+          "type": "twitter",
+          "value": "@endertown"
+        },
+        {
+          "type": "website",
+          "value": "https://www.joshpainter.com/"
+        },
+        {
+          "type": "mintdid",
+          "value": "did:chia:1ar35mu00g86j032ffn0xjgy8d5uh9q6kcvyap7n073pyxlhpmufsjd4kya"
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Oil"
+      }
+    ]
+  }
