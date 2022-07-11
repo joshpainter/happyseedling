@@ -1,7 +1,7 @@
 {
     "format": "CHIP-0007",
     "name": "Happy Seedling - Pink Oil",
-    "description": "2,000 Happy Seedlings on Chia, from Josh Painter.",
+    "description": "What are we gonna do tonight, Brain?",
     "sensitive_content": false,
     "collection": {
       "name": "Happy Seedlings",
@@ -9,7 +9,7 @@
       "attributes": [
         {
           "type": "description",
-          "value": "2,000 Happy Seedlings on Chia, from Josh Painter."
+          "value": "The Official Happy Seedling PFP NFT Collection! Exactly 2,000 Happy Seedlings on Chia created by Josh Painter."
         },
         {
           "type": "twitter",
@@ -17,11 +17,19 @@
         },
         {
           "type": "website",
-          "value": "https://www.joshpainter.com/"
+          "value": "https://www.joshpainter.com/happyseedling"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/playlist?list=PLptdP0jLi2mJnTjl_CsJqZYdbZw3q28Iz"
         },
         {
           "type": "mintdid",
           "value": "did:chia:1ar35mu00g86j032ffn0xjgy8d5uh9q6kcvyap7n073pyxlhpmufsjd4kya"
+        },
+        {
+          "type": "mintdidname",
+          "value": "did.joshpainter.com"
         }
       ]
     },
