@@ -1,0 +1,44 @@
+{
+  "collection": {
+    "name": "Happy Seedlings",
+    "id": "did:chia:1ar35mu00g86j032ffn0xjgy8d5uh9q6kcvyap7n073pyxlhpmufsjd4kya:happyseedlings",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The Official Happy Seedling PFP NFT Collection! Exactly 2,000 Happy Seedlings on Chia created by Josh Painter."
+      },
+      {
+        "type": "twitter",
+        "value": "@endertown"
+      },
+      {
+        "type": "website",
+        "value": "https://www.joshpainter.com/happyseedling"
+      },
+      {
+        "type": "youtube",
+        "value": "https://www.youtube.com/playlist?list=PLptdP0jLi2mJnTjl_CsJqZYdbZw3q28Iz"
+      },
+      {
+        "type": "mintdid",
+        "value": "did:chia:1ar35mu00g86j032ffn0xjgy8d5uh9q6kcvyap7n073pyxlhpmufsjd4kya"
+      },
+      {
+        "type": "mintdidname",
+        "value": "did.joshpainter.com"
+      }
+    ]
+  },
+  "editions": {
+    "name": "Happy Seedling - Pink Oil",
+    "quantity": 1100,
+    "imageUri": "https://www.joshpainter.com/wp-content/uploads/2022/07/happy-seedling-pink-oil.png",
+    "imageUriBackup": "https://bafkreiceko3vrfcbycqi5njxtzgztc4tgvfmn7sukoxvkcp3yv5x5bdloi.ipfs.nftstorage.link",
+    "imageHash": "4453b7589441c0a08eb5379e4d998b93354ac6fe5453af5509fbc57b7e846b72",
+    "metadataUri": "",
+    "metadataUriBackup": "",
+    "metadataHash": "",
+    "licenseUri": "",
+    "licenseHash": ""
+  }
+}
